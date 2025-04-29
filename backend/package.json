@@ -1,0 +1,15 @@
+{
+  "name": "ai-generated-code-app-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI Generated Code App with chatbot assistance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "openai": "^4.6.0"
+  }
+}
